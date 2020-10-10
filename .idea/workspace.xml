@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87bd6499-e18e-40dd-984f-ef9c205ea509" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MoviesAppInKotlin/app/src/main/java/com/example/moviesappinkotlin/MovieDetails.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MoviesAppInKotlin/app/src/main/res/layout/activity_movie_details.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesAppInKotlin/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesAppInKotlin/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesAppInKotlin/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesAppInKotlin/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesAppInKotlin/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesAppInKotlin/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesAppInKotlin/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesAppInKotlin/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesAppInKotlin/app/src/main/java/com/example/moviesappinkotlin/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesAppInKotlin/app/src/main/java/com/example/moviesappinkotlin/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesAppInKotlin/app/src/main/java/com/example/moviesappinkotlin/MoviesAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesAppInKotlin/app/src/main/java/com/example/moviesappinkotlin/MoviesAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesAppInKotlin/app/src/main/res/layout/card_movie.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesAppInKotlin/app/src/main/res/layout/card_movie.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesAppInKotlin/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesAppInKotlin/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesAppInKotlin/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesAppInKotlin/app/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MoviesAppInKotlin" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MoviesAppInKotlin" />
+  </component>
+  <component name="ProjectId" id="1iKj7xMHc4bletb4eL4bdsEeR4m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MoviesAppInKotlin" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87bd6499-e18e-40dd-984f-ef9c205ea509" name="Default Changelist" comment="" />
+      <created>1601663013890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601663013890</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1602153439054">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602153439054" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1601663763631">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1601663763631" />
+  </component>
+</project>
